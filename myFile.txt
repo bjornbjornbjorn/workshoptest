@@ -1,1 +1,2 @@
 this is text that I'm writing to the file using the command echo
+this is a change I am making on my desktop to my local copy.
