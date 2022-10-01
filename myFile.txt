@@ -1,1 +1,2 @@
 this is text that I'm writing to the file using the command echo
+this is another line that I'm writing in GitHub editor
